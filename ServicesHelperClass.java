@@ -1,3 +1,4 @@
+package com.example.myapplication;
 public class ServicesHelperClass {
     String serviceId;
     String nom;
